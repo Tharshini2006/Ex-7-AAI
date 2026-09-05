@@ -70,7 +70,7 @@ print(summary)
 
 ## Output
 
-<img width="1616" height="397" alt="image" src="https://github.com/user-attachments/assets/a845eee1-7ed7-4f1f-a541-54811dd1fab5" />
+<img width="1053" height="322" alt="image" src="https://github.com/user-attachments/assets/b21dc5a7-662c-400e-9ec0-f1b0d32f5a7b" />
 
 ## Result:
 Thus ,the program to perform the Text summarization is executed sucessfully.
